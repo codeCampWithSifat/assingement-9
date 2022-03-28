@@ -1,0 +1,9 @@
+.banner-image {
+    background-image: url(../../image/sifat.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-top: -50px;
+}
+
