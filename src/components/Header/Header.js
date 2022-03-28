@@ -29,7 +29,7 @@ const Header = () => {
                 <Link className="nav-link" to="/contact">Contact</Link>
               </li>
               <li className="nav-item m-3">
-                <span style={{color: "white"}}>{user.displayName}</span>
+                <span style={{color: "red"}}>{user.displayName}</span>
               </li>
 
               {user.email ? <li className="nav-item m-3">  <span><button className='btn btn-outline-danger' onClick={logOut}>Logout</button></span>  </li>:<li className="nav-item m-3">
