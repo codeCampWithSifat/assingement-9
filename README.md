@@ -12,4 +12,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-# Live Site Link :( https://https://parents-simple.web.app/destination )
+# Live Site Link :(https://parents-simple.web.app/destination )
